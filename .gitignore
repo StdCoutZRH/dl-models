@@ -1,0 +1,29 @@
+##ignore these files
+
+# dirs
+*checkpoints/
+.vscode/*
+__pycache__/*
+*.idea
+
+# weights
+*.zip
+*.h5
+*.pth
+*.pt
+*.ckpt.*
+*.ckpt
+*.bin
+*.onnx
+
+# images
+*.jpg
+*.png
+
+# others
+*.pyc
+*.config
+*.gz
+*.xml
+*.mapping
+
